@@ -1,0 +1,1 @@
+INSERT INTO USERS VALUES(users_seq.nextVal,"wes");
